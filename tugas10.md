@@ -1,10 +1,10 @@
 # Tugas 10
 
-## 1. Todo Register
+## 1. Browser Register
 ![Alt text](screenshot/tugas10/dashboard.png)
-## 2. Todo Verify
+## 2. Browser Verify
 ![Alt text](screenshot/tugas10/verify_email.png)
-## 3. Todo Mailtrap
+## 3. Browser Mailtrap
 ![Alt text](screenshot/tugas10/mailtrap.png)
-## 4. Todo Dashboard
+## 4. Browser Dashboard
 ![Alt text](screenshot/tugas10/dashboard.png)
