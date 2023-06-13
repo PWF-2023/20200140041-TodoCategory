@@ -8,6 +8,9 @@ use Illuminate\Database\Eloquent\Model;
 class Todo extends Model
 {
     use HasFactory;
+    protected $casts =[
+        'is_complete' => 'boolean',
+    ];
     protected $fillable = [
         'title',
         'user_id',
@@ -22,4 +25,5 @@ class Todo extends Model
     {
         return $this->belongsTo(Category::class);
     }
+
 }
