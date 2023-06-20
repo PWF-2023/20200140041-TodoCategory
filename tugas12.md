@@ -9,4 +9,4 @@
 ## 4. Todo Update
 ![Alt text](screenshot/tugas12/update.png)
 ## 5. Todo Delete
-![Alt text](screenshot/tugas12/delete.png)
+![Alt text](screenshot/tugas12/delete1.png)
